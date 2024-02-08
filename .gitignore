@@ -1,0 +1,8 @@
+example codes
+.vscode
+.cache
+build/*
+!build/compile_commands.json
+reports
+*.pdf
+test_image*

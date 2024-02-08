@@ -1,0 +1,102 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I",
+      "./include",
+      "-pedantic",
+      "-Wall",
+      "-Wfatal-errors",
+      "-Wextra",
+      "-Wno-unused-parameter",
+      "-Wno-unused-variable",
+      "-c",
+      "-o",
+      "./build/gfx.o",
+      "./src/gfx.c"
+    ],
+    "directory": "/home/awsim/Documents/yeditepe university/2nd year 2nd term/cse232/project",
+    "file": "/home/awsim/Documents/yeditepe university/2nd year 2nd term/cse232/project/src/gfx.c",
+    "output": "/home/awsim/Documents/yeditepe university/2nd year 2nd term/cse232/project/build/gfx.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I",
+      "./include",
+      "-pedantic",
+      "-Wall",
+      "-Wfatal-errors",
+      "-Wextra",
+      "-Wno-unused-parameter",
+      "-Wno-unused-variable",
+      "-c",
+      "-o",
+      "./build/irem.o",
+      "./src/irem.c"
+    ],
+    "directory": "/home/awsim/Documents/yeditepe university/2nd year 2nd term/cse232/project",
+    "file": "/home/awsim/Documents/yeditepe university/2nd year 2nd term/cse232/project/src/irem.c",
+    "output": "/home/awsim/Documents/yeditepe university/2nd year 2nd term/cse232/project/build/irem.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I",
+      "./include",
+      "-pedantic",
+      "-Wall",
+      "-Wfatal-errors",
+      "-Wextra",
+      "-Wno-unused-parameter",
+      "-Wno-unused-variable",
+      "-c",
+      "-o",
+      "./build/oguzhan.o",
+      "./src/oguzhan.c"
+    ],
+    "directory": "/home/awsim/Documents/yeditepe university/2nd year 2nd term/cse232/project",
+    "file": "/home/awsim/Documents/yeditepe university/2nd year 2nd term/cse232/project/src/oguzhan.c",
+    "output": "/home/awsim/Documents/yeditepe university/2nd year 2nd term/cse232/project/build/oguzhan.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I",
+      "./include",
+      "-pedantic",
+      "-Wall",
+      "-Wfatal-errors",
+      "-Wextra",
+      "-Wno-unused-parameter",
+      "-Wno-unused-variable",
+      "-c",
+      "-o",
+      "./build/umut.o",
+      "./src/umut.c"
+    ],
+    "directory": "/home/awsim/Documents/yeditepe university/2nd year 2nd term/cse232/project",
+    "file": "/home/awsim/Documents/yeditepe university/2nd year 2nd term/cse232/project/src/umut.c",
+    "output": "/home/awsim/Documents/yeditepe university/2nd year 2nd term/cse232/project/build/umut.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I",
+      "./include",
+      "-pedantic",
+      "-Wall",
+      "-Wfatal-errors",
+      "-Wextra",
+      "-Wno-unused-parameter",
+      "-Wno-unused-variable",
+      "-c",
+      "-o",
+      "./build/yahya.o",
+      "./src/yahya.c"
+    ],
+    "directory": "/home/awsim/Documents/yeditepe university/2nd year 2nd term/cse232/project",
+    "file": "/home/awsim/Documents/yeditepe university/2nd year 2nd term/cse232/project/src/yahya.c",
+    "output": "/home/awsim/Documents/yeditepe university/2nd year 2nd term/cse232/project/build/yahya.o"
+  }
+]
